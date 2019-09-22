@@ -1,11 +1,14 @@
-package com.aws.codestar.projecttemplates;
+package org.rbs.nordisk.invoice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
-import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+import org.springframework.boot.web.support.SpringBootServletInitializer;
 
-/** Simple class to start up the application.
+
+/** sreejith.kizhakkayil 
+ * 
+ *  Simple class to start up the application.
  *
  * @SpringBootApplication adds:
  *  @Configuration
